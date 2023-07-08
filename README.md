@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xAdityaKsj
+- 👋 Hi, I’m Adi
 - 👀 I’m interested in Web development , Machine Learning 
 - 🌱 I’m currently learning Full stack development and Deep Learning.
 - 📈 I’m looking to collaborate on any Web or Deep learning projects 
