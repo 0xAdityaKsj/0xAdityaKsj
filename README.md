@@ -17,5 +17,6 @@ I'm thrilled to collaborate on projects revolving around web development or deep
 - Email: [aditya.kantipudi@protonmail.com](mailto:aditya.kantipudi@protonmail.com)
 - GitHub: [0xAdityaKsj](https://github.com/0xAdityaKsj)
 - LinkedIn: [Aditya K](https://www.linkedin.com/in/aditya-k-2a3844181/)
+  
 I'm always eager to learn, collaborate, and grow. Let's connect and create!
 
