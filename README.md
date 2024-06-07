@@ -1,6 +1,1 @@
-
-## CSS Injection Example
-
-$$\color{red}{\text{\textbf{This text will be red and bold}}}$$
-
-This is an inline math expression: $ \color{blue}{\text{\textit{This text will be blue and italic}}} $
+The formula for the area of a circle is $A = \pi r^2$.
